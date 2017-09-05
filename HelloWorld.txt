@@ -1,4 +1,5 @@
-HelloWorld
-
-static void main(){
+Class Solution{
+  pubic void hello(){
+    System.out.print("Hello World");
+  }
 }
